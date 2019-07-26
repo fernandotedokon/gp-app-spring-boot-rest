@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [06/May/2019:23:19:37 -0300] "GET /rest/cursos HTTP/1.1" 500 257 http-bio-9090-exec-1 2250
+0:0:0:0:0:0:0:1 - - [06/May/2019:23:23:17 -0300] "PUT /rest/cursos HTTP/1.1" 405 - http-bio-9090-exec-2 20
+0:0:0:0:0:0:0:1 - - [06/May/2019:23:24:04 -0300] "PUT /rest/cursos HTTP/1.1" 405 - http-bio-9090-exec-3 4
+0:0:0:0:0:0:0:1 - - [06/May/2019:23:24:14 -0300] "POST /rest/cursos HTTP/1.1" 400 - http-bio-9090-exec-4 89
